@@ -1,4 +1,4 @@
-# openSUSE and NodeJS6 image
+# openSUSE and NodeJS8 image
 
 This project builds an openSUSE-based image which includes NodeJS version 8 and is based off the [OpenSUSE Base Image](https://github.com/CAFapi/opensuse-base-image). It can be used as a base image by projects which require NodeJS8.
 
